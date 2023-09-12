@@ -1,3 +1,5 @@
+# !!! Archived -- this repository is archived and currently not actively maintained!
+
 # default-environment-charts
 The default git repository used when creating new GitOps based Environments
 
